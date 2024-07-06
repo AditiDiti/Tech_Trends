@@ -1,0 +1,6 @@
+"homepage": "https://<AditiDiti>.github.io/<news_tech>"
+{
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
